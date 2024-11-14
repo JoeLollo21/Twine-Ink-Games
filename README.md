@@ -2,7 +2,9 @@
 A repository of different text adventure games I like to make, either for work *or* when I'm not working.
 
 ## Completed games:
-''Library Quest'' (2024) - created as a sample/tutorial game for a Twine workshop at the University of Washington Libraries. 
+*Baloney Detectives* (2023) - class project made on Twine, introducing college students to strategies for detecting health misinformation. 
+<br>
+*Library Quest* (2024) - created as a sample/tutorial game for a Twine workshop at the University of Washington Libraries.
 
 ## Ideas:
-''Like My Coffee'' (2025, I hope) - the game of silly comparisons.
+*Like My Coffee* (2025, I hope) - the game of silly comparisons.
